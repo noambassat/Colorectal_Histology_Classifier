@@ -3,4 +3,4 @@ Biopsy cells classifier, using Deep Learning Neural network, based on fine-tuned
 
 TensorFlow Datasets:
 1. Colorectal_Histology 
-2. Colorectal_Histology
+2. Colorectal_Histology_Large
