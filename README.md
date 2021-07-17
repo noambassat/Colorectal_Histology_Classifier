@@ -1,4 +1,4 @@
 # Colorectal_Histology_Classifier
 Biopsy cells classifier, using Deep Learning Neural Network, based on fine-tuned VGG19 model
 
-   ![image](https://user-images.githubusercontent.com/42816702/124351977-3a3e2d80-dc06-11eb-8da9-94741bc13af1.png)
+   ![image](https://user-images.githubusercontent.com/42816702/126049130-9a6bfe48-86e6-442a-a488-fdb0c1dd23ea.png)
